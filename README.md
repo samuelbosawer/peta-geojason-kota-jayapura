@@ -9,7 +9,7 @@ Peta Kota Jayapura berdasarkan distrik.
 
 ![Demo Peta Kota Jayapura](./assets/images/demo1.png)
 
-Demo github pages [disini](https://antheiz.github.io/papua-maps-geojson)
+Demo github pages [disini](https://samuelbosawer.github.io/peta-geojason-kota-jayapura/)
 
 ## Lisensi
 
